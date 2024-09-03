@@ -2,7 +2,7 @@
 
 This project investigates Boston's AirBnB data from September 2016 - September 2017.
 
-Project Overview: What insights can we gather from Boston's open sourced AirBnb listings? Are there patterns in availability and/or price, and can we predict the occupancy of a listing, with the intention to help AirBnB hosts maximise their revenue from their property? This comprehensive explorartion of Boston's AirBnB data follows a rigorous framework, and addresses each of these questions. 
+Project Motivation: Hosts on AriBnB are, traditionally, middle income individuals with a second property, with little to no experience in the holiday enconomy. Can we leverage insights from AirBnB Boston to enable these individuals to maximise their revenue from their properties, by understanding trends and important factors which contribute to the success of their venture.
 
 File Description:
 - exploration.ipynb: The main analysis and modelling notebook
