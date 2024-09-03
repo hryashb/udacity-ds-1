@@ -1,4 +1,4 @@
-# udacity-ds-1
+# Exploring Boston's AirBnb data from 2016.
 
 This project investigates Boston's AirBnB data from September 2016.
 
